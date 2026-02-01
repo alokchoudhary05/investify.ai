@@ -647,7 +647,7 @@ See [LICENSE](LICENSE) for full text.
 
 ---
 
-**Last Updated**: January 31, 2026
+**Last Updated**: February 1, 2026
 
 ---
 
