@@ -1,0 +1,13 @@
+openai
+agno>=2.2.10
+duckduckgo-search
+yfinance
+sqlalchemy
+ddgs
+python-dotenv
+fastapi
+uvicorn
+PyJWT
+streamlit>=1.28.0
+plotly>=5.17.0
+pandas>=2.0.0
