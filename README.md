@@ -65,7 +65,29 @@ Financial decision-making traditionally requires:
 - Multi-agent chat interface for complex queries
 
 ---
+## Prototype (Date: February 3, 2026)
+### Landing Page
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/787a1323-4604-4fb8-8fb6-1ed479033638" />
 
+### Market Overview
+<img width="1912" height="907" alt="image" src="https://github.com/user-attachments/assets/eb472a9f-7fd1-49c8-bce3-e1f2ab7b701a" />
+<img width="1909" height="908" alt="image" src="https://github.com/user-attachments/assets/23008fb5-e85f-481f-b3c0-a1ee59f29868" />
+
+### Multi-Agent Collaboration Team
+<img width="1909" height="907" alt="image" src="https://github.com/user-attachments/assets/823075a7-52eb-4e86-9179-24378de566e2" />
+
+### Agent-Team Insights
+<img width="1916" height="917" alt="image" src="https://github.com/user-attachments/assets/e2ab621b-83be-44bf-8571-6c5cd40c8617" />
+<img width="1913" height="903" alt="image" src="https://github.com/user-attachments/assets/4af961ee-2a33-429c-a7f1-54861634cb91" />
+
+<img width="1896" height="908" alt="image" src="https://github.com/user-attachments/assets/40689aa2-f23c-4573-a1bd-1695e29a6aa8" />
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/e7f3ad9e-6fbe-45fd-89ab-0e05c6eb063e" />
+<img width="1907" height="893" alt="image" src="https://github.com/user-attachments/assets/e3e2e2be-14bc-4c84-866e-72a9cde6a97d" />
+
+### Stock Research Features
+<img width="1909" height="904" alt="image" src="https://github.com/user-attachments/assets/a9124945-8e61-442f-a1de-1fd4101f1291" />
+
+---
 ## System Design
 
 ### High-Level Architecture
@@ -647,7 +669,7 @@ See [LICENSE](LICENSE) for full text.
 
 ---
 
-**Last Updated**: February 1, 2026
+**Last Updated**: February 3, 2026
 
 ---
 
